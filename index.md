@@ -5,9 +5,11 @@ The key deliverables are open software, a public demonstrator, real-world trials
 
 The project involves three partners:
 
-1. [Trinity College Dublin, IE](https://www.tcd.ie/)
-2. [Open Consent Network, UK](https://openconsent.com/)
-3. [Birmingham City University, UK](https://www.bcu.ac.uk/)
+1. Dave Lewis, Harshvardhan J. Pandit, [Trinity College Dublin, IE](https://www.tcd.ie/)
+2. Salvatore D'Agostino, Mark Lizar, [Open Consent Network, UK](https://openconsent.com/)
+3. Vitor Jesus - [Birmingham City University, UK](https://www.trustless-team.com)
+
+contacts: harshvardhan.pandit[at]adaptcentre.ie, sal[at]openconsent.com, mark[at]openconsent.com, vitor.jesus[at]bcu.ac.uk
 
 # Overview
 
