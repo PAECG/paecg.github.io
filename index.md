@@ -1,7 +1,14 @@
-PaE:CG is a project funded under [NGI TRUST](https://wiki.geant.org/display/NGITrust/NGI_Trust) 
-that will provide an end-to-end, user-centric, comprehensive, open source solution 
-to managing Consent for Personal Data.
+---
+layout: home
+title: PaE:CG Project
+tagline: Privacy as Expected - Consent Gateway
+ref: home
+order: 0
+---
+PaE:CG is a project funded under [NGI TRUST](https://wiki.geant.org/display/NGITrust/NGI_Trust) from OCT-2020 to JUN-2021 that will provide an end-to-end, user-centric, comprehensive, open source solution to managing Consent for Personal Data.
 The key deliverables are open software, a public demonstrator, real-world trials, and publications.
+
+### Partners
 
 The project involves three partners:
 
@@ -9,14 +16,7 @@ The project involves three partners:
 2. Salvatore D'Agostino, Mark Lizar, [Open Consent Network, UK](https://openconsent.com/)
 3. Vitor Jesus - [Birmingham City University, UK](https://www.trustless-team.com)
 
-contacts: harshvardhan.pandit[at]adaptcentre.ie, sal[at]openconsent.com, mark[at]openconsent.com, vitor.jesus[at]bcu.ac.uk
+### Workshop on COnSeNT
 
-# Overview
-
-Whenever a User accepts a Privacy Notice and starts sharing personal  data, they will receive a cryptographic Consent Receipt (based on a  secure architecture [2] and open standards [3]) which, with  non-repudiation and unforgeability proves, at any time, who-what-how any conditions were accepted.
-
-Considering the dynamic nature of the  Web, a User will not have to extensively review or re-accept the same  Privacy Terms. While creating an infrastructure to manage transparent,  usable and accountable Consent, the User will further have access to  crowd-reviewed Privacy Notices. As long as the Notice does not change,  the User will not have to repeatedly re-accept. This will dramatically  improve usability, while improving Transparency.
-
-A further key  deliverable of this project is to design a Consent Gateway service  which, while not keeping any Personal Information, will review, for the  User, and notify the User of any changes requiring re- acceptance (while still keeping previous Consent valid). Considering that a key challenge in Online Consent is Usability, this architecture is poised to make  dramatic advances for all parties involved in online Consent: Users,  Organisations, Data Protection Officers, Institutions and Regulatory  Agencies.
-
-This proposal is based on existing work from the Open  Consent Group (affiliated with the Kantara Initiative) and academic work from Trinity College Dublin and Birmingham City University. To the best of our knowledge, such a framework does not exist anywhere and has not  been proposed before despite its urgent need and demand.
+PaE:CG is organising an International Workshop on
+Consent Management in Online Services, Networks and Things (COnSeNT) co-located with the IEEE European Symposium on Security and Privacy. Read [call for papers and more details](https://privacy-as-expected.org/consent2021/).
