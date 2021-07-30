@@ -22,11 +22,11 @@ PaE:CG project has produced the following components for implementing its vision
 
 Other than these, the PaE:CG project also had the following outcomes and impacts:
 
-**International Workshop on Consent**: PaE:CG is organising an International Workshop on Consent Management in Online Services, Networks and Things (COnSeNT) co-located with the IEEE European Symposium on Security and Privacy, scheduled to take place on 7-SEP-2021. Read [call for papers and more details]((https://privacy-as-expected.org/consent2021/).
+**International Workshop on Consent**: PaE:CG is organising an International Workshop on Consent Management in Online Services, Networks and Things (COnSeNT) co-located with the IEEE European Symposium on Security and Privacy, scheduled to take place on 7-SEP-2021. Read [call for papers and more details](https://privacy-as-expected.org/consent2021/).
 
 **Contributions to ISO/IEC 27560** which represents ongoing stnadardisation efforts of information structures for consent records. See [ISO/IEC 27560](https://www.iso.org/standard/80392.html) page for more details about the standard.
 
-**Kantara Advanced Notice & Consent Receipt (ANCR) Working Group** created for continuation of project’s aims and outcomes.
+**Kantara Advanced Notice & Consent Receipt (ANCR) Working Group** created for continuation of project’s aims and outcomes. See [ANCR page](https://kantarainitiative.org/confluence/pages/viewpage.action?pageId=140804260) for more details.
 
 **Identiverse presentation on notice applications** on video surveillance and facial recognition.
 
