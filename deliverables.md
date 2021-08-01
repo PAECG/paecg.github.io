@@ -8,13 +8,11 @@ order: 2
 ---
 PaE:CG project has produced the following components for implementing its vision and architecture:
 
-**User Agent Plug-in** for assisting people in generating, validating, and managing consent receipts within their web browsers. `link to code (TBA)`
-
-**Server component** for assisting data controllers and service providers in generating, validating, and managing consent receipts through their web servers. `link to code (TBA)`
-
-**Consent Gateway** for acting as a trusted third party in the consent receipt process as a witness, and for providing additional services. `link to code (TBA)`
-
-**Consent Receipt**: a documentation of information required for validating and demonstrating the validity of consent in the form of a record of information associated with the consent process. Links to deliverable: [PDF](deliverables/D2.4_Consent_Receipts.pdf), [Zenodo (archive)](https://doi.org/10.5281/zenodo.5076603 )
+* Software, available [here](https://github.com/PAECG/NGI-PaECG-public)
+  * **User Agent Plug-in** for assisting people in generating, validating, and managing consent receipts within their web browsers.
+  * **Server component** for assisting data controllers and service providers in generating, validating, and managing consent receipts through their web servers.
+  * **Consent Gateway** for acting as a trusted third party in the consent receipt process as a witness, and for providing additional services.
+  * **Consent Receipt**: a documentation of information required for validating and demonstrating the validity of consent in the form of a record of information associated with the consent process. Links to deliverable: [PDF](deliverables/D2.4_Consent_Receipts.pdf), [Zenodo (archive)](https://doi.org/10.5281/zenodo.5076603 )
 
 **Final (combined) deliverable** which outlines the outcomes of the Privacy as Expected: Consent Gateway (PaE:CG) project. Links to deliverable: TBD
 
